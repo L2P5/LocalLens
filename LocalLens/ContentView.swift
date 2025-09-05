@@ -19,6 +19,9 @@ struct ContentView: View {
     }
 }
 
+// TODO: structure groups created
+
+
 #Preview {
     ContentView()
 }

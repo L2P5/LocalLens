@@ -7,11 +7,15 @@
 
 import SwiftUI
 
+
+
+import SwiftUI
+
 @main
 struct LocalLensApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            DiscoverView()
         }
     }
 }
